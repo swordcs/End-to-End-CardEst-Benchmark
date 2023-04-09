@@ -199,7 +199,7 @@ diff -ruN postgresql-13.1_11/src/backend/optimizer/path/costsize.c postgresql-13
 +print_single_rel(PlannerInfo *root, RelOptInfo *rel) {
 +    FILE* f_rec= fopen("single_tbl_est_record.txt", "a+");
 +
-+    fprintf(f_rec, "query: %d\n", query_no++);
++    fprintf(f_rec, "query: %d\n", query_no+1);
 +    print_basic_rel(f_rec, root, rel);
 +    fprintf(f_rec, "\n\n");
 +    fclose(f_rec);
@@ -209,7 +209,7 @@ diff -ruN postgresql-13.1_11/src/backend/optimizer/path/costsize.c postgresql-13
 +print_join_rel(PlannerInfo *root, RelOptInfo *rel1, RelOptInfo *rel2){
 +    FILE* f_rec= fopen("join_est_record_job.txt", "a+");
 +
-+    fprintf(f_rec, "query: %d\n", query_no++);
++    fprintf(f_rec, "query: %d\n", query_no+1);
 +    fprintf(f_rec, "==================inner_rel==================: \n");
 +    print_basic_rel(f_rec, root, rel1);
 +    fprintf(f_rec, "==================outer_rel==================: \n");
@@ -322,7 +322,7 @@ diff -ruN postgresql-13.1_11/src/backend/optimizer/path/costsize.c postgresql-13
 +        double new_nrows = card_ests[query_no];
 +
 +        if (debug_card_est) {
-+            FILE *ffp = fopen("old_new_single_est.txt", "w");
++            FILE *ffp = fopen("old_new_single_est.txt", "a+");
 +            fprintf(ffp, "%.5f:%.5f\n", nrows, new_nrows);
 +            fclose(ffp);
 +        }

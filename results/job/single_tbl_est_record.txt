@@ -1,0 +1,1173 @@
+query: 1
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 2
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 3
+RELOPTINFO (mi_idx): rows=250 width=0
+	baserestrictinfo: mi_idx.info_type_id = 112
+
+
+query: 4
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 5
+RELOPTINFO (t): rows=479551 width=0
+	baserestrictinfo: t.production_year > 2005, t.production_year < 2010
+
+
+query: 6
+RELOPTINFO (mi_idx): rows=10 width=0
+	baserestrictinfo: mi_idx.info_type_id = 113
+
+
+query: 7
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 8
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 9
+RELOPTINFO (mi_idx): rows=250 width=0
+	baserestrictinfo: mi_idx.info_type_id = 112
+
+
+query: 10
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 11
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 12
+RELOPTINFO (mi_idx): rows=10 width=0
+	baserestrictinfo: mi_idx.info_type_id = 113
+
+
+query: 13
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 14
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 15
+RELOPTINFO (mk): rows=41840 width=0
+	baserestrictinfo: mk.keyword_id = 117
+
+
+query: 16
+RELOPTINFO (t): rows=1012920 width=0
+	baserestrictinfo: t.production_year > 2005
+
+
+query: 17
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 18
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 19
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 20
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 21
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 22
+RELOPTINFO (t): rows=1749032 width=0
+	baserestrictinfo: t.production_year > 1990
+
+
+query: 23
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 24
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 25
+RELOPTINFO (t): rows=1012920 width=0
+	baserestrictinfo: t.production_year > 2005
+
+
+query: 26
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 27
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 28
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 29
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 30
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 31
+RELOPTINFO (t): rows=1749032 width=0
+	baserestrictinfo: t.production_year > 1990
+
+
+query: 32
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 33
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 34
+RELOPTINFO (t): rows=1012920 width=0
+	baserestrictinfo: t.production_year > 2005
+
+
+query: 35
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 36
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 37
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 38
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 39
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 40
+RELOPTINFO (t): rows=1749032 width=0
+	baserestrictinfo: t.production_year > 1990
+
+
+query: 41
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 42
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 43
+RELOPTINFO (mk): rows=14 width=0
+	baserestrictinfo: mk.keyword_id = 8200
+
+
+query: 44
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 45
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 46
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 47
+RELOPTINFO (t): rows=438 width=0
+	baserestrictinfo: t.production_year > 2014
+
+
+query: 48
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 49
+RELOPTINFO (mk): rows=14 width=0
+	baserestrictinfo: mk.keyword_id = 8200
+
+
+query: 50
+RELOPTINFO (t): rows=438 width=0
+	baserestrictinfo: t.production_year > 2014
+
+
+query: 51
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 52
+RELOPTINFO (mk): rows=14 width=0
+	baserestrictinfo: mk.keyword_id = 8200
+
+
+query: 53
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 54
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 55
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 56
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 57
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 58
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 59
+RELOPTINFO (t): rows=288970 width=0
+	baserestrictinfo: t.production_year > 1980, t.production_year < 1995
+
+
+query: 60
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 61
+RELOPTINFO (t): rows=44715 width=0
+	baserestrictinfo: t.production_year > 1980, t.production_year < 1984
+
+
+query: 62
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 63
+RELOPTINFO (t): rows=1399115 width=0
+	baserestrictinfo: t.production_year > 1980, t.production_year < 2010
+
+
+query: 64
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 65
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 66
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 67
+RELOPTINFO (ci): rows=2728943 width=0
+	baserestrictinfo: ci.role_id = 4
+
+
+query: 68
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 69
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 70
+RELOPTINFO (ci): rows=276403 width=0
+	baserestrictinfo: ci.role_id = 7
+
+
+query: 71
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 72
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 73
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 74
+RELOPTINFO (t): rows=1012482 width=0
+	baserestrictinfo: t.production_year > 2005, t.production_year < 2015
+
+
+query: 75
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 76
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 77
+RELOPTINFO (t): rows=251557 width=0
+	baserestrictinfo: t.production_year > 2007, t.production_year < 2010
+
+
+query: 78
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 79
+RELOPTINFO (t): rows=1012920 width=0
+	baserestrictinfo: t.production_year > 2005
+
+
+query: 80
+RELOPTINFO (ci): rows=12670688 width=0
+	baserestrictinfo: ci.role_id = 1
+
+
+query: 81
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 82
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 83
+RELOPTINFO (ci): rows=12670688 width=0
+	baserestrictinfo: ci.role_id = 1
+
+
+query: 84
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 85
+RELOPTINFO (t): rows=1749032 width=0
+	baserestrictinfo: t.production_year > 1990
+
+
+query: 86
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 87
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 88
+RELOPTINFO (t): rows=852805 width=0
+	baserestrictinfo: t.production_year > 1950, t.production_year < 2000
+
+
+query: 89
+RELOPTINFO (mk): rows=10544 width=0
+	baserestrictinfo: mk.keyword_id = 398
+
+
+query: 90
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 91
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 92
+RELOPTINFO (mk): rows=10544 width=0
+	baserestrictinfo: mk.keyword_id = 398
+
+
+query: 93
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 94
+RELOPTINFO (t): rows=2287271 width=0
+	baserestrictinfo: t.production_year > 1950
+
+
+query: 95
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 96
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 97
+RELOPTINFO (t): rows=227994 width=0
+	baserestrictinfo: t.production_year > 2005, t.production_year < 2008
+
+
+query: 98
+RELOPTINFO (mi): rows=1533909 width=0
+	baserestrictinfo: mi.info_type_id = 3
+
+
+query: 99
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 100
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 101
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 102
+RELOPTINFO (mi): rows=121863 width=0
+	baserestrictinfo: mi.info_type_id = 105
+
+
+query: 103
+RELOPTINFO (mi_idx): rows=10 width=0
+	baserestrictinfo: mi_idx.info_type_id = 113
+
+
+query: 104
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 105
+RELOPTINFO (t): rows=848084 width=0
+	baserestrictinfo: t.production_year > 2000, t.production_year < 2010
+
+
+query: 106
+RELOPTINFO (mi): rows=1533909 width=0
+	baserestrictinfo: mi.info_type_id = 3
+
+
+query: 107
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 108
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 109
+RELOPTINFO (t): rows=662825 width=0
+	baserestrictinfo: t.kind_id = 1
+
+
+query: 110
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 111
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 112
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 113
+RELOPTINFO (t): rows=98992 width=0
+	baserestrictinfo: t.production_year > 2010, t.kind_id = 1
+
+
+query: 114
+RELOPTINFO (mi): rows=1325361 width=0
+	baserestrictinfo: mi.info_type_id = 8
+
+
+query: 115
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 116
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 117
+RELOPTINFO (t): rows=662825 width=0
+	baserestrictinfo: t.kind_id = 1
+
+
+query: 118
+RELOPTINFO (mi): rows=1325361 width=0
+	baserestrictinfo: mi.info_type_id = 8
+
+
+query: 119
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 120
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 121
+RELOPTINFO (t): rows=1012920 width=0
+	baserestrictinfo: t.production_year > 2005
+
+
+query: 122
+RELOPTINFO (mi): rows=1325361 width=0
+	baserestrictinfo: mi.info_type_id = 8
+
+
+query: 123
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 124
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 125
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 126
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 127
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 128
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 129
+RELOPTINFO (t): rows=479551 width=0
+	baserestrictinfo: t.production_year > 2005, t.production_year < 2010
+
+
+query: 130
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 131
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 132
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 133
+RELOPTINFO (t): rows=1749032 width=0
+	baserestrictinfo: t.production_year > 1990
+
+
+query: 134
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 135
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 136
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 137
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 138
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 139
+RELOPTINFO (mk): rows=41840 width=0
+	baserestrictinfo: mk.keyword_id = 117
+
+
+query: 140
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 141
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 142
+RELOPTINFO (mi): rows=121863 width=0
+	baserestrictinfo: mi.info_type_id = 105
+
+
+query: 143
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 100
+
+
+query: 144
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 145
+RELOPTINFO (t): rows=658550 width=0
+	baserestrictinfo: t.production_year > 2008, t.production_year < 2014
+
+
+query: 146
+RELOPTINFO (mi): rows=1533909 width=0
+	baserestrictinfo: mi.info_type_id = 3
+
+
+query: 147
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 148
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 149
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 150
+RELOPTINFO (mi): rows=1533909 width=0
+	baserestrictinfo: mi.info_type_id = 3
+
+
+query: 151
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 100
+
+
+query: 152
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 153
+RELOPTINFO (t): rows=350855 width=0
+	baserestrictinfo: t.production_year > 2005, t.production_year < 2009
+
+
+query: 154
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 155
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 156
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 157
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 158
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 159
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 160
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 161
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 162
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 163
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 164
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 165
+RELOPTINFO (t): rows=492483 width=0
+	baserestrictinfo: t.production_year > 1950, t.kind_id = 1
+
+
+query: 166
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 167
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 168
+RELOPTINFO (t): rows=274015 width=0
+	baserestrictinfo: t.production_year > 2000, t.kind_id = 1
+
+
+query: 169
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 170
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 171
+RELOPTINFO (t): rows=852805 width=0
+	baserestrictinfo: t.production_year > 1950, t.production_year < 2000
+
+
+query: 172
+RELOPTINFO (mk): rows=10544 width=0
+	baserestrictinfo: mk.keyword_id = 398
+
+
+query: 173
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 174
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 175
+RELOPTINFO (t): rows=848084 width=0
+	baserestrictinfo: t.production_year > 2000, t.production_year < 2010
+
+
+query: 176
+RELOPTINFO (mk): rows=10544 width=0
+	baserestrictinfo: mk.keyword_id = 398
+
+
+query: 177
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 178
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 179
+RELOPTINFO (t): rows=1753902 width=0
+	baserestrictinfo: t.production_year > 1950, t.production_year < 2010
+
+
+query: 180
+RELOPTINFO (mk): rows=10544 width=0
+	baserestrictinfo: mk.keyword_id = 398
+
+
+query: 181
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 182
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 183
+RELOPTINFO (t): rows=662065 width=0
+	baserestrictinfo: t.production_year > 2008
+
+
+query: 184
+RELOPTINFO (mi): rows=1325361 width=0
+	baserestrictinfo: mi.info_type_id = 8
+
+
+query: 185
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 186
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 187
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 188
+RELOPTINFO (t): rows=533369 width=0
+	baserestrictinfo: t.production_year > 2009
+
+
+query: 189
+RELOPTINFO (mi): rows=1325361 width=0
+	baserestrictinfo: mi.info_type_id = 8
+
+
+query: 190
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 191
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 192
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 193
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 194
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 195
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 196
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 197
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 198
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 199
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 200
+RELOPTINFO (mc): rows=99 width=0
+	baserestrictinfo: mc.company_id = 22956
+
+
+query: 201
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 202
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 203
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 204
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 205
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 206
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 207
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 208
+RELOPTINFO (t): rows=2528312 width=0
+
+
+query: 209
+RELOPTINFO (mi): rows=1533909 width=0
+	baserestrictinfo: mi.info_type_id = 3
+
+
+query: 210
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 100
+
+
+query: 211
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 212
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 213
+RELOPTINFO (t): rows=391666 width=0
+	baserestrictinfo: t.production_year > 2010
+
+
+query: 214
+RELOPTINFO (mi): rows=1533909 width=0
+	baserestrictinfo: mi.info_type_id = 3
+
+
+query: 215
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 100
+
+
+query: 216
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 217
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 218
+RELOPTINFO (t): rows=274015 width=0
+	baserestrictinfo: t.production_year > 2000, t.kind_id = 1
+
+
+query: 219
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 220
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 221
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 222
+RELOPTINFO (t): rows=216282 width=0
+	baserestrictinfo: t.production_year > 2005, t.kind_id = 1
+
+
+query: 223
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 224
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 225
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 226
+RELOPTINFO (t): rows=46583 width=0
+	baserestrictinfo: t.production_year = 1998
+
+
+query: 227
+RELOPTINFO (mk): rows=10544 width=0
+	baserestrictinfo: mk.keyword_id = 398
+
+
+query: 228
+RELOPTINFO (mc): rows=1334883 width=0
+	baserestrictinfo: mc.company_type_id = 2
+
+
+query: 229
+RELOPTINFO (mi): rows=14835720 width=0
+
+
+query: 230
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 231
+RELOPTINFO (mi): rows=1325361 width=0
+	baserestrictinfo: mi.info_type_id = 8
+
+
+query: 232
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 233
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 234
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 235
+RELOPTINFO (t): rows=1012920 width=0
+	baserestrictinfo: t.production_year > 2005
+
+
+query: 236
+RELOPTINFO (mi): rows=1325361 width=0
+	baserestrictinfo: mi.info_type_id = 8
+
+
+query: 237
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 101
+
+
+query: 238
+RELOPTINFO (mk): rows=4523930 width=0
+
+
+query: 239
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 240
+RELOPTINFO (t): rows=848084 width=0
+	baserestrictinfo: t.production_year > 2000, t.production_year < 2010
+
+
+query: 241
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 242
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 243
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 244
+RELOPTINFO (mk): rows=414 width=0
+	baserestrictinfo: mk.keyword_id = 7084
+
+
+query: 245
+RELOPTINFO (t): rows=273528 width=0
+	baserestrictinfo: t.production_year > 2000, t.production_year < 2005
+
+
+query: 246
+RELOPTINFO (mi): rows=3036719 width=0
+	baserestrictinfo: mi.info_type_id = 16
+
+
+query: 247
+RELOPTINFO (mc): rows=2609129 width=0
+
+
+query: 248
+RELOPTINFO (ci): rows=7451973 width=0
+	baserestrictinfo: ci.role_id = 2
+
+
+query: 249
+RELOPTINFO (mk): rows=414 width=0
+	baserestrictinfo: mk.keyword_id = 7084
+
+
+query: 250
+RELOPTINFO (t): rows=1381453 width=0
+	baserestrictinfo: t.production_year > 2000
+
+
+query: 251
+RELOPTINFO (mi): rows=1533909 width=0
+	baserestrictinfo: mi.info_type_id = 3
+
+
+query: 252
+RELOPTINFO (mi_idx): rows=459925 width=0
+	baserestrictinfo: mi_idx.info_type_id = 100
+
+
+query: 253
+RELOPTINFO (ci): rows=36244344 width=0
+
+
+query: 254
+RELOPTINFO (mk): rows=4523930 width=0
+
+

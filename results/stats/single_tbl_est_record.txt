@@ -1,0 +1,2960 @@
+query: 1
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 2
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.upvotes >= 0
+
+
+query: 3
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 4
+RELOPTINFO (b): rows=79633 width=0
+	baserestrictinfo: b.date <= 2014-09-11 14:33:06
+
+
+query: 5
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 6
+RELOPTINFO (ph): rows=42921 width=0
+	baserestrictinfo: ph.posthistorytypeid = 1
+
+
+query: 7
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 8
+RELOPTINFO (ph): rows=42308 width=0
+	baserestrictinfo: ph.creationdate >= 2010-09-14 11:59:07, ph.posthistorytypeid = 1
+
+
+query: 9
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 10
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 11
+RELOPTINFO (b): rows=79598 width=0
+	baserestrictinfo: b.date <= 2014-09-11 08:55:52
+
+
+query: 12
+RELOPTINFO (p): rows=42172 width=0
+	baserestrictinfo: p.answercount >= 0, p.answercount <= 4, p.commentcount >= 0, p.commentcount <= 17
+
+
+query: 13
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 14
+RELOPTINFO (p): rows=90764 width=0
+	baserestrictinfo: p.commentcount <= 18, p.creationdate >= 2010-07-23 07:27:31, p.creationdate <= 2014-09-09 01:43:00
+
+
+query: 15
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 16
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 17
+RELOPTINFO (p): rows=89551 width=0
+	baserestrictinfo: p.creationdate >= 2010-09-06 00:58:21, p.creationdate <= 2014-09-12 10:02:21
+
+
+query: 18
+RELOPTINFO (pl): rows=9480 width=0
+	baserestrictinfo: pl.creationdate >= 2011-07-09 22:35:44, pl.linktypeid = 1
+
+
+query: 19
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 20
+RELOPTINFO (p): rows=91948 width=0
+	baserestrictinfo: p.commentcount >= 0, p.commentcount <= 25
+
+
+query: 21
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 22
+RELOPTINFO (c): rows=172156 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-05 00:36:02, c.creationdate <= 2014-09-08 16:50:49
+
+
+query: 23
+RELOPTINFO (p): rows=11847 width=0
+	baserestrictinfo: p.viewcount >= 0, p.viewcount <= 2897, p.commentcount >= 0, p.commentcount <= 16, p.favoritecount >= 0, p.favoritecount <= 10
+
+
+query: 24
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 25
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 26
+RELOPTINFO (p): rows=39244 width=0
+	baserestrictinfo: p.score >= 0, p.score <= 15, p.viewcount >= 0, p.viewcount <= 3002, p.answercount <= 3, p.commentcount <= 10
+
+
+query: 27
+RELOPTINFO (u): rows=38281 width=0
+	baserestrictinfo: u.downvotes <= 0, u.upvotes >= 0, u.creationdate >= 2010-08-23 16:21:10, u.creationdate <= 2014-09-02 09:50:06
+
+
+query: 28
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 29
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 30
+RELOPTINFO (u): rows=38103 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 487, u.upvotes <= 27, u.creationdate >= 2010-10-22 22:40:35, u.creationdate <= 2014-09-10 17:01:31
+
+
+query: 31
+RELOPTINFO (c): rows=172916 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-10 17:55:45
+
+
+query: 32
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 33
+RELOPTINFO (u): rows=39890 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 691
+
+
+query: 34
+RELOPTINFO (c): rows=169020 width=0
+	baserestrictinfo: c.creationdate >= 2010-10-01 20:45:26, c.creationdate <= 2014-09-05 12:51:17
+
+
+query: 35
+RELOPTINFO (v): rows=1652 width=0
+	baserestrictinfo: v.bountyamount <= 100
+
+
+query: 36
+RELOPTINFO (u): rows=31448 width=0
+	baserestrictinfo: u.creationdate <= 2014-09-12 03:25:34, u.upvotes = 0
+
+
+query: 37
+RELOPTINFO (c): rows=134659 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-24 06:46:49, c.score = 0
+
+
+query: 38
+RELOPTINFO (b): rows=79610 width=0
+	baserestrictinfo: b.date >= 2010-07-19 20:34:06, b.date <= 2014-09-12 15:11:36
+
+
+query: 39
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.upvotes >= 0
+
+
+query: 40
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 41
+RELOPTINFO (b): rows=79693 width=0
+	baserestrictinfo: b.date >= 2010-07-19 20:54:06
+
+
+query: 42
+RELOPTINFO (u): rows=38246 width=0
+	baserestrictinfo: u.downvotes >= 0, u.upvotes >= 0, u.upvotes <= 17, u.creationdate >= 2010-08-06 07:03:05, u.creationdate <= 2014-09-08 04:18:44
+
+
+query: 43
+RELOPTINFO (p): rows=91770 width=0
+	baserestrictinfo: p.creationdate >= 2010-07-20 02:01:05
+
+
+query: 44
+RELOPTINFO (t): rows=1032 width=0
+
+
+query: 45
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 46
+RELOPTINFO (p): rows=91871 width=0
+	baserestrictinfo: p.creationdate >= 2010-07-19 20:08:37
+
+
+query: 47
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 48
+RELOPTINFO (ph): rows=302773 width=0
+	baserestrictinfo: ph.creationdate >= 2010-07-20 00:30:00
+
+
+query: 49
+RELOPTINFO (p): rows=91837 width=0
+	baserestrictinfo: p.commentcount <= 17
+
+
+query: 50
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 51
+RELOPTINFO (u): rows=40244 width=0
+	baserestrictinfo: u.creationdate <= 2014-09-12 07:12:16
+
+
+query: 52
+RELOPTINFO (ph): rows=293788 width=0
+	baserestrictinfo: ph.creationdate <= 2014-08-17 21:24:11
+
+
+query: 53
+RELOPTINFO (p): rows=89117 width=0
+	baserestrictinfo: p.creationdate >= 2010-07-26 19:26:37, p.creationdate <= 2014-08-22 14:43:39
+
+
+query: 54
+RELOPTINFO (u): rows=40277 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 6524, u.views >= 0
+
+
+query: 55
+RELOPTINFO (v): rows=327888 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-12 00:00:00
+
+
+query: 56
+RELOPTINFO (p): rows=87554 width=0
+	baserestrictinfo: p.score >= -1, p.creationdate >= 2010-10-21 13:21:24, p.creationdate <= 2014-09-09 15:12:22
+
+
+query: 57
+RELOPTINFO (u): rows=39363 width=0
+	baserestrictinfo: u.upvotes >= 0, u.creationdate >= 2010-07-27 17:15:57, u.creationdate <= 2014-09-03 12:47:42
+
+
+query: 58
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 59
+RELOPTINFO (p): rows=91312 width=0
+	baserestrictinfo: p.commentcount >= 0, p.commentcount <= 12
+
+
+query: 60
+RELOPTINFO (u): rows=39787 width=0
+	baserestrictinfo: u.creationdate >= 2010-07-22 04:38:06, u.creationdate <= 2014-09-08 15:55:02
+
+
+query: 61
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 62
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 63
+RELOPTINFO (u): rows=39578 width=0
+	baserestrictinfo: u.downvotes >= 0, u.downvotes <= 0
+
+
+query: 64
+RELOPTINFO (v): rows=1301 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.bountyamount <= 50
+
+
+query: 65
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 66
+RELOPTINFO (u): rows=39578 width=0
+	baserestrictinfo: u.downvotes = 0
+
+
+query: 67
+RELOPTINFO (c): rows=173351 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-02 23:52:10
+
+
+query: 68
+RELOPTINFO (p): rows=91904 width=0
+	baserestrictinfo: p.score >= -3
+
+
+query: 69
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 70
+RELOPTINFO (v): rows=261980 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-12 00:00:00, v.votetypeid = 2
+
+
+query: 71
+RELOPTINFO (c): rows=170249 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-21 11:05:37, c.creationdate <= 2014-08-25 17:59:25
+
+
+query: 72
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 73
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 74
+RELOPTINFO (u): rows=39575 width=0
+	baserestrictinfo: u.upvotes >= 0, u.creationdate >= 2010-08-21 21:27:38
+
+
+query: 75
+RELOPTINFO (c): rows=134848 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-13 20:12:15, c.score = 0
+
+
+query: 76
+RELOPTINFO (p): rows=91286 width=0
+	baserestrictinfo: p.creationdate >= 2010-07-27 01:51:15
+
+
+query: 77
+RELOPTINFO (v): rows=1301 width=0
+	baserestrictinfo: v.bountyamount <= 50, v.creationdate <= 2014-09-12 00:00:00
+
+
+query: 78
+RELOPTINFO (u): rows=38691 width=0
+	baserestrictinfo: u.upvotes >= 0, u.upvotes <= 12, u.creationdate >= 2010-07-19 19:09:39
+
+
+query: 79
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 80
+RELOPTINFO (p): rows=91231 width=0
+	baserestrictinfo: p.score <= 22
+
+
+query: 81
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 82
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.reputation >= 1
+
+
+query: 83
+RELOPTINFO (v): rows=327888 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-12 00:00:00
+
+
+query: 84
+RELOPTINFO (p): rows=13079 width=0
+	baserestrictinfo: p.score >= -1, p.favoritecount >= 0, p.favoritecount <= 20, p.posttypeid = 1
+
+
+query: 85
+RELOPTINFO (b): rows=78564 width=0
+	baserestrictinfo: b.date >= 2010-07-20 19:02:22, b.date <= 2014-09-03 23:36:09
+
+
+query: 86
+RELOPTINFO (u): rows=38651 width=0
+	baserestrictinfo: u.downvotes <= 2, u.upvotes >= 0, u.creationdate >= 2010-11-26 03:34:11
+
+
+query: 87
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 88
+RELOPTINFO (p): rows=37528 width=0
+	baserestrictinfo: p.score >= 0, p.score <= 30, p.creationdate >= 2010-07-27 15:30:31, p.creationdate <= 2014-09-04 17:45:10, p.commentcount = 0
+
+
+query: 89
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 90
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 91
+RELOPTINFO (v): rows=325944 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-06 00:00:00
+
+
+query: 92
+RELOPTINFO (p): rows=42797 width=0
+	baserestrictinfo: p.score <= 48, p.answercount <= 8
+
+
+query: 93
+RELOPTINFO (b): rows=74827 width=0
+	baserestrictinfo: b.date >= 2011-01-03 20:50:19, b.date <= 2014-09-02 15:35:07
+
+
+query: 94
+RELOPTINFO (u): rows=38979 width=0
+	baserestrictinfo: u.creationdate >= 2010-11-16 06:03:04
+
+
+query: 95
+RELOPTINFO (c): rows=172741 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-12 20:33:46, c.creationdate <= 2014-09-13 19:26:55
+
+
+query: 96
+RELOPTINFO (ph): rows=270380 width=0
+	baserestrictinfo: ph.creationdate >= 2011-04-11 14:46:09, ph.creationdate <= 2014-08-17 16:37:23
+
+
+query: 97
+RELOPTINFO (v): rows=326162 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-26 00:00:00, v.creationdate <= 2014-09-12 00:00:00
+
+
+query: 98
+RELOPTINFO (u): rows=39806 width=0
+	baserestrictinfo: u.views >= 0, u.views <= 783, u.downvotes >= 0, u.downvotes <= 1, u.upvotes <= 123
+
+
+query: 99
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 100
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 101
+RELOPTINFO (v): rows=1731 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.creationdate >= 2010-07-26 00:00:00, v.creationdate <= 2014-09-08 00:00:00
+
+
+query: 102
+RELOPTINFO (u): rows=29853 width=0
+	baserestrictinfo: u.reputation >= 1, u.views >= 0, u.views <= 110, u.creationdate >= 2010-07-28 19:29:11, u.creationdate <= 2014-08-14 05:29:30, u.upvotes = 0
+
+
+query: 103
+RELOPTINFO (c): rows=24976 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-20 23:17:28, c.score = 1
+
+
+query: 104
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 105
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 106
+RELOPTINFO (u): rows=40173 width=0
+	baserestrictinfo: u.creationdate >= 2010-07-20 01:27:29
+
+
+query: 107
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 108
+RELOPTINFO (v): rows=1740 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.creationdate <= 2014-09-11 00:00:00
+
+
+query: 109
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 110
+RELOPTINFO (u): rows=37585 width=0
+	baserestrictinfo: u.downvotes <= 57, u.creationdate >= 2010-08-26 09:01:31, u.creationdate <= 2014-08-10 11:01:39
+
+
+query: 111
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 112
+RELOPTINFO (v): rows=1734 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.bountyamount <= 300, v.creationdate >= 2010-07-29 00:00:00
+
+
+query: 113
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 114
+RELOPTINFO (u): rows=39086 width=0
+	baserestrictinfo: u.upvotes >= 0, u.upvotes <= 18
+
+
+query: 115
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 116
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 117
+RELOPTINFO (ph): rows=275493 width=0
+	baserestrictinfo: ph.creationdate >= 2011-05-07 21:47:19, ph.creationdate <= 2014-09-10 13:19:54
+
+
+query: 118
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 119
+RELOPTINFO (c): rows=132704 width=0
+	baserestrictinfo: c.creationdate >= 2010-09-05 16:04:35, c.creationdate <= 2014-09-11 04:35:36, c.score = 0
+
+
+query: 120
+RELOPTINFO (ph): rows=42747 width=0
+	baserestrictinfo: ph.creationdate >= 2010-07-26 20:01:58, ph.creationdate <= 2014-09-13 17:29:23, ph.posthistorytypeid = 1
+
+
+query: 121
+RELOPTINFO (b): rows=79006 width=0
+	baserestrictinfo: b.date <= 2014-09-04 08:54:56
+
+
+query: 122
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 123
+RELOPTINFO (c): rows=134790 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-20 10:52:57, c.score = 0
+
+
+query: 124
+RELOPTINFO (ph): rows=66005 width=0
+	baserestrictinfo: ph.creationdate >= 2011-01-31 15:35:37, ph.posthistorytypeid = 5
+
+
+query: 125
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 126
+RELOPTINFO (u): rows=38069 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 356, u.downvotes <= 34, u.creationdate >= 2010-07-19 21:29:29, u.creationdate <= 2014-08-20 14:31:46
+
+
+query: 127
+RELOPTINFO (pl): rows=10186 width=0
+	baserestrictinfo: pl.linktypeid = 1
+
+
+query: 128
+RELOPTINFO (p): rows=87833 width=0
+	baserestrictinfo: p.score >= -1, p.commentcount <= 8, p.creationdate >= 2010-07-21 12:30:43, p.creationdate <= 2014-09-07 01:11:03
+
+
+query: 129
+RELOPTINFO (u): rows=39139 width=0
+	baserestrictinfo: u.views <= 40, u.creationdate >= 2010-07-26 19:11:25, u.creationdate <= 2014-09-11 22:26:42
+
+
+query: 130
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 131
+RELOPTINFO (pl): rows=10739 width=0
+	baserestrictinfo: pl.creationdate <= 2014-08-17 01:23:50
+
+
+query: 132
+RELOPTINFO (p): rows=1654 width=0
+	baserestrictinfo: p.score >= -1, p.score <= 10, p.answercount <= 5, p.favoritecount >= 0, p.favoritecount <= 6, p.commentcount = 2
+
+
+query: 133
+RELOPTINFO (u): rows=36456 width=0
+	baserestrictinfo: u.views <= 33, u.downvotes >= 0, u.creationdate >= 2010-08-19 17:31:36, u.creationdate <= 2014-08-06 07:23:12
+
+
+query: 134
+RELOPTINFO (b): rows=79571 width=0
+	baserestrictinfo: b.date <= 2014-09-10 22:50:06
+
+
+query: 135
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 136
+RELOPTINFO (p): rows=42291 width=0
+	baserestrictinfo: p.score >= -1, p.commentcount >= 0, p.commentcount <= 11, p.posttypeid = 1
+
+
+query: 137
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 138
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 139
+RELOPTINFO (ph): rows=42921 width=0
+	baserestrictinfo: ph.posthistorytypeid = 3
+
+
+query: 140
+RELOPTINFO (p): rows=91968 width=0
+	baserestrictinfo: p.score >= -7
+
+
+query: 141
+RELOPTINFO (u): rows=40047 width=0
+	baserestrictinfo: u.reputation >= 1, u.upvotes >= 0, u.upvotes <= 117
+
+
+query: 142
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 143
+RELOPTINFO (ph): rows=294376 width=0
+	baserestrictinfo: ph.creationdate >= 2010-09-06 11:41:43, ph.creationdate <= 2014-09-03 16:41:18
+
+
+query: 144
+RELOPTINFO (p): rows=12391 width=0
+	baserestrictinfo: p.score >= -1, p.viewcount >= 0, p.viewcount <= 39097, p.answercount >= 0, p.commentcount >= 0, p.commentcount <= 11, p.favoritecount <= 10, p.creationdate >= 2010-08-13 02:18:09, p.creationdate <= 2014-09-09 10:20:27
+
+
+query: 145
+RELOPTINFO (u): rows=39266 width=0
+	baserestrictinfo: u.views >= 0, u.downvotes >= 0, u.downvotes <= 0, u.upvotes >= 0, u.upvotes <= 37
+
+
+query: 146
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 147
+RELOPTINFO (ph): rows=91976 width=0
+	baserestrictinfo: ph.posthistorytypeid = 2
+
+
+query: 148
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 149
+RELOPTINFO (u): rows=924 width=0
+	baserestrictinfo: u.downvotes >= 0, u.upvotes >= 0, u.upvotes <= 224, u.creationdate <= 2014-09-04 04:41:22, u.views = 5
+
+
+query: 150
+RELOPTINFO (b): rows=79095 width=0
+	baserestrictinfo: b.date >= 2010-07-19 19:39:10, b.date <= 2014-09-05 18:37:48
+
+
+query: 151
+RELOPTINFO (c): rows=173418 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-01 12:12:41
+
+
+query: 152
+RELOPTINFO (p): rows=11092 width=0
+	baserestrictinfo: p.score <= 44, p.favoritecount >= 0, p.favoritecount <= 3, p.creationdate >= 2010-08-11 13:53:56, p.creationdate <= 2014-09-03 11:52:36
+
+
+query: 153
+RELOPTINFO (pl): rows=9803 width=0
+	baserestrictinfo: pl.creationdate <= 2014-08-11 17:26:31, pl.linktypeid = 1
+
+
+query: 154
+RELOPTINFO (ph): rows=296815 width=0
+	baserestrictinfo: ph.creationdate >= 2010-09-20 19:11:45
+
+
+query: 155
+RELOPTINFO (v): rows=327569 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-11 00:00:00
+
+
+query: 156
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 157
+RELOPTINFO (p): rows=10076 width=0
+	baserestrictinfo: p.score <= 13, p.answercount >= 0, p.answercount <= 4, p.commentcount >= 0, p.favoritecount <= 2
+
+
+query: 158
+RELOPTINFO (ph): rows=42921 width=0
+	baserestrictinfo: ph.posthistorytypeid = 3
+
+
+query: 159
+RELOPTINFO (v): rows=1301 width=0
+	baserestrictinfo: v.bountyamount <= 50
+
+
+query: 160
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.downvotes >= 0
+
+
+query: 161
+RELOPTINFO (c): rows=174083 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-20 21:37:31
+
+
+query: 162
+RELOPTINFO (ph): rows=467 width=0
+	baserestrictinfo: ph.posthistorytypeid = 12
+
+
+query: 163
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 164
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 165
+RELOPTINFO (u): rows=31529 width=0
+	baserestrictinfo: u.upvotes = 0
+
+
+query: 166
+RELOPTINFO (c): rows=25003 width=0
+	baserestrictinfo: c.score = 1
+
+
+query: 167
+RELOPTINFO (p): rows=90780 width=0
+	baserestrictinfo: p.score >= -1, p.score <= 29, p.creationdate >= 2010-07-19 20:40:36, p.creationdate <= 2014-09-10 20:52:30
+
+
+query: 168
+RELOPTINFO (v): rows=1301 width=0
+	baserestrictinfo: v.bountyamount <= 50
+
+
+query: 169
+RELOPTINFO (b): rows=78106 width=0
+	baserestrictinfo: b.date <= 2014-08-25 19:05:46
+
+
+query: 170
+RELOPTINFO (u): rows=39392 width=0
+	baserestrictinfo: u.downvotes <= 11, u.creationdate >= 2010-07-31 17:32:56, u.creationdate <= 2014-09-07 16:06:26
+
+
+query: 171
+RELOPTINFO (c): rows=25003 width=0
+	baserestrictinfo: c.score = 1
+
+
+query: 172
+RELOPTINFO (p): rows=4170 width=0
+	baserestrictinfo: p.score >= -2, p.score <= 23, p.viewcount <= 2432, p.favoritecount >= 0, p.commentcount = 0
+
+
+query: 173
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 174
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 175
+RELOPTINFO (u): rows=36148 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 113, u.views >= 0, u.views <= 51
+
+
+query: 176
+RELOPTINFO (c): rows=173183 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-31 05:18:59, c.creationdate <= 2014-09-12 07:59:13
+
+
+query: 177
+RELOPTINFO (p): rows=42735 width=0
+	baserestrictinfo: p.score >= -2, p.viewcount >= 0, p.viewcount <= 18281
+
+
+query: 178
+RELOPTINFO (ph): rows=91976 width=0
+	baserestrictinfo: ph.posthistorytypeid = 2
+
+
+query: 179
+RELOPTINFO (b): rows=77332 width=0
+	baserestrictinfo: b.date >= 2010-10-20 08:33:44
+
+
+query: 180
+RELOPTINFO (u): rows=39819 width=0
+	baserestrictinfo: u.views >= 0, u.views <= 75
+
+
+query: 181
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 182
+RELOPTINFO (p): rows=5209 width=0
+	baserestrictinfo: p.score <= 35, p.commentcount <= 17, p.favoritecount >= 0, p.posttypeid = 1, p.answercount = 1
+
+
+query: 183
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 184
+RELOPTINFO (b): rows=78392 width=0
+	baserestrictinfo: b.date >= 2010-07-27 17:58:45, b.date <= 2014-09-06 17:33:22
+
+
+query: 185
+RELOPTINFO (u): rows=37972 width=0
+	baserestrictinfo: u.views <= 233, u.downvotes <= 2, u.creationdate >= 2010-09-16 16:00:55, u.creationdate <= 2014-08-24 21:12:02
+
+
+query: 186
+RELOPTINFO (c): rows=173240 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-08 15:58:08
+
+
+query: 187
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 188
+RELOPTINFO (p): rows=42921 width=0
+	baserestrictinfo: p.viewcount >= 0
+
+
+query: 189
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.reputation >= 1
+
+
+query: 190
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 191
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 192
+RELOPTINFO (pl): rows=9704 width=0
+	baserestrictinfo: pl.creationdate >= 2011-04-12 15:23:59, pl.linktypeid = 1
+
+
+query: 193
+RELOPTINFO (p): rows=1961 width=0
+	baserestrictinfo: p.viewcount >= 0, p.favoritecount >= 0, p.score = 1
+
+
+query: 194
+RELOPTINFO (u): rows=38333 width=0
+	baserestrictinfo: u.creationdate >= 2011-02-08 18:11:37
+
+
+query: 195
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 196
+RELOPTINFO (t): rows=1032 width=0
+
+
+query: 197
+RELOPTINFO (p): rows=91976 width=0
+	baserestrictinfo: p.commentcount >= 0
+
+
+query: 198
+RELOPTINFO (u): rows=39578 width=0
+	baserestrictinfo: u.downvotes <= 0
+
+
+query: 199
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 200
+RELOPTINFO (b): rows=77851 width=0
+	baserestrictinfo: b.date <= 2014-08-22 02:21:55
+
+
+query: 201
+RELOPTINFO (t): rows=1032 width=0
+
+
+query: 202
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 203
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.downvotes >= 0
+
+
+query: 204
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 205
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 206
+RELOPTINFO (t): rows=1032 width=0
+
+
+query: 207
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 208
+RELOPTINFO (u): rows=39871 width=0
+	baserestrictinfo: u.views >= 0, u.views <= 515, u.upvotes >= 0, u.creationdate <= 2014-09-07 13:46:41
+
+
+query: 209
+RELOPTINFO (v): rows=1725 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.bountyamount <= 200
+
+
+query: 210
+RELOPTINFO (b): rows=79736 width=0
+	baserestrictinfo: b.date <= 2014-09-12 12:56:22
+
+
+query: 211
+RELOPTINFO (p): rows=91489 width=0
+	baserestrictinfo: p.commentcount >= 0, p.commentcount <= 13
+
+
+query: 212
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 213
+RELOPTINFO (ph): rows=66973 width=0
+	baserestrictinfo: ph.creationdate <= 2014-08-13 09:20:10, ph.posthistorytypeid = 5
+
+
+query: 214
+RELOPTINFO (v): rows=327982 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-19 00:00:00
+
+
+query: 215
+RELOPTINFO (b): rows=79400 width=0
+	baserestrictinfo: b.date <= 2014-09-09 10:24:35
+
+
+query: 216
+RELOPTINFO (u): rows=36624 width=0
+	baserestrictinfo: u.views >= 0, u.downvotes >= 0, u.creationdate >= 2010-08-04 16:59:53, u.creationdate <= 2014-07-22 15:15:22
+
+
+query: 217
+RELOPTINFO (p): rows=13246 width=0
+	baserestrictinfo: p.answercount >= 0, p.favoritecount >= 0
+
+
+query: 218
+RELOPTINFO (pl): rows=10186 width=0
+	baserestrictinfo: pl.linktypeid = 1
+
+
+query: 219
+RELOPTINFO (ph): rows=91976 width=0
+	baserestrictinfo: ph.posthistorytypeid = 2
+
+
+query: 220
+RELOPTINFO (v): rows=327650 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-20 00:00:00
+
+
+query: 221
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 222
+RELOPTINFO (u): rows=37483 width=0
+	baserestrictinfo: u.reputation >= 1, u.downvotes >= 0, u.downvotes <= 0, u.upvotes <= 439, u.creationdate <= 2014-08-07 11:18:45
+
+
+query: 223
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 224
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 225
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 226
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 227
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 228
+RELOPTINFO (u): rows=38978 width=0
+	baserestrictinfo: u.views <= 190, u.creationdate >= 2010-07-20 08:05:39, u.creationdate <= 2014-08-27 09:31:28
+
+
+query: 229
+RELOPTINFO (c): rows=172753 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-06 12:21:39, c.creationdate <= 2014-09-11 20:55:34
+
+
+query: 230
+RELOPTINFO (p): rows=12355 width=0
+	baserestrictinfo: p.score >= 0, p.score <= 13, p.favoritecount >= 0
+
+
+query: 231
+RELOPTINFO (pl): rows=9802 width=0
+	baserestrictinfo: pl.creationdate >= 2011-03-11 18:50:29, pl.linktypeid = 1
+
+
+query: 232
+RELOPTINFO (v): rows=261736 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-11 00:00:00, v.votetypeid = 2
+
+
+query: 233
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 234
+RELOPTINFO (u): rows=37520 width=0
+	baserestrictinfo: u.reputation >= 1, u.creationdate >= 2011-02-17 03:42:02, u.creationdate <= 2014-09-01 10:54:39
+
+
+query: 235
+RELOPTINFO (c): rows=8362 width=0
+	baserestrictinfo: c.score = 2
+
+
+query: 236
+RELOPTINFO (p): rows=11546 width=0
+	baserestrictinfo: p.viewcount <= 7710, p.commentcount <= 12, p.favoritecount >= 0, p.favoritecount <= 4, p.creationdate >= 2010-07-27 03:58:22
+
+
+query: 237
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 238
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 239
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 240
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.upvotes >= 0
+
+
+query: 241
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 242
+RELOPTINFO (p): rows=42188 width=0
+	baserestrictinfo: p.answercount >= 0, p.answercount <= 4, p.creationdate <= 2014-09-12 15:56:19
+
+
+query: 243
+RELOPTINFO (pl): rows=9811 width=0
+	baserestrictinfo: pl.creationdate >= 2011-03-07 16:05:24, pl.linktypeid = 1
+
+
+query: 244
+RELOPTINFO (v): rows=1650 width=0
+	baserestrictinfo: v.bountyamount <= 100, v.creationdate >= 2009-02-03 00:00:00, v.creationdate <= 2014-09-11 00:00:00
+
+
+query: 245
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 246
+RELOPTINFO (u): rows=36029 width=0
+	baserestrictinfo: u.views <= 160, u.creationdate >= 2010-07-27 12:58:30, u.creationdate <= 2014-07-12 20:08:07
+
+
+query: 247
+RELOPTINFO (c): rows=173883 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-11 13:24:22
+
+
+query: 248
+RELOPTINFO (p): rows=2038 width=0
+	baserestrictinfo: p.favoritecount <= 12, p.posttypeid = 1, p.score = 2
+
+
+query: 249
+RELOPTINFO (pl): rows=10894 width=0
+	baserestrictinfo: pl.creationdate >= 2010-08-13 11:42:08, pl.creationdate <= 2014-08-29 00:27:05
+
+
+query: 250
+RELOPTINFO (ph): rows=287306 width=0
+	baserestrictinfo: ph.creationdate >= 2011-01-03 23:47:35, ph.creationdate <= 2014-09-08 12:48:36
+
+
+query: 251
+RELOPTINFO (v): rows=326124 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-27 00:00:00
+
+
+query: 252
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.reputation >= 1, u.downvotes >= 0
+
+
+query: 253
+RELOPTINFO (c): rows=134487 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-20 06:26:28, c.creationdate <= 2014-09-11 18:45:09, c.score = 0
+
+
+query: 254
+RELOPTINFO (p): rows=10286 width=0
+	baserestrictinfo: p.favoritecount >= 0, p.favoritecount <= 2, p.posttypeid = 1
+
+
+query: 255
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 256
+RELOPTINFO (ph): rows=69427 width=0
+	baserestrictinfo: ph.posthistorytypeid = 5
+
+
+query: 257
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 258
+RELOPTINFO (u): rows=38753 width=0
+	baserestrictinfo: u.downvotes <= 0, u.upvotes >= 0, u.creationdate >= 2010-09-18 01:58:41
+
+
+query: 259
+RELOPTINFO (c): rows=173652 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-26 20:21:15, c.creationdate <= 2014-09-13 01:26:16
+
+
+query: 260
+RELOPTINFO (p): rows=90182 width=0
+	baserestrictinfo: p.score >= -1, p.score <= 19, p.commentcount <= 13
+
+
+query: 261
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 262
+RELOPTINFO (ph): rows=88076 width=0
+	baserestrictinfo: ph.creationdate <= 2014-08-07 12:06:00, ph.posthistorytypeid = 2
+
+
+query: 263
+RELOPTINFO (v): rows=1301 width=0
+	baserestrictinfo: v.bountyamount <= 50, v.creationdate >= 2010-07-21 00:00:00, v.creationdate <= 2014-09-14 00:00:00
+
+
+query: 264
+RELOPTINFO (u): rows=38951 width=0
+	baserestrictinfo: u.views >= 0, u.creationdate <= 2014-08-19 21:33:14
+
+
+query: 265
+RELOPTINFO (c): rows=133715 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-02 20:27:48, c.creationdate <= 2014-09-10 16:09:23, c.score = 0
+
+
+query: 266
+RELOPTINFO (p): rows=2637 width=0
+	baserestrictinfo: p.viewcount <= 4937, p.posttypeid = 1, p.score = 4
+
+
+query: 267
+RELOPTINFO (pl): rows=10006 width=0
+	baserestrictinfo: pl.creationdate >= 2011-11-03 05:09:35
+
+
+query: 268
+RELOPTINFO (ph): rows=42921 width=0
+	baserestrictinfo: ph.posthistorytypeid = 1
+
+
+query: 269
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 270
+RELOPTINFO (u): rows=39081 width=0
+	baserestrictinfo: u.reputation <= 270, u.views >= 0, u.views <= 51, u.downvotes >= 0
+
+
+query: 271
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 272
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 273
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 274
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 275
+RELOPTINFO (v): rows=327152 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-19 00:00:00, v.creationdate <= 2014-09-10 00:00:00
+
+
+query: 276
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 277
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 278
+RELOPTINFO (p): rows=41984 width=0
+	baserestrictinfo: p.score <= 32, p.viewcount <= 4146
+
+
+query: 279
+RELOPTINFO (pl): rows=10186 width=0
+	baserestrictinfo: pl.linktypeid = 1
+
+
+query: 280
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 281
+RELOPTINFO (v): rows=327234 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-10 00:00:00
+
+
+query: 282
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 283
+RELOPTINFO (c): rows=173719 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-26 20:21:15, c.creationdate <= 2014-09-13 18:12:10
+
+
+query: 284
+RELOPTINFO (p): rows=11552 width=0
+	baserestrictinfo: p.score <= 61, p.viewcount <= 3627, p.answercount >= 0, p.answercount <= 5, p.commentcount <= 8, p.favoritecount >= 0
+
+
+query: 285
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 286
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 287
+RELOPTINFO (v): rows=260436 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-27 00:00:00, v.votetypeid = 2
+
+
+query: 288
+RELOPTINFO (b): rows=78900 width=0
+	baserestrictinfo: b.date >= 2010-07-30 03:49:24
+
+
+query: 289
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 290
+RELOPTINFO (p): rows=91976 width=0
+	baserestrictinfo: p.commentcount >= 0
+
+
+query: 291
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 292
+RELOPTINFO (ph): rows=91976 width=0
+	baserestrictinfo: ph.posthistorytypeid = 2
+
+
+query: 293
+RELOPTINFO (v): rows=33691 width=0
+	baserestrictinfo: v.votetypeid = 5
+
+
+query: 294
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 295
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 296
+RELOPTINFO (p): rows=91908 width=0
+	baserestrictinfo: p.score <= 67
+
+
+query: 297
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 298
+RELOPTINFO (ph): rows=1043 width=0
+	baserestrictinfo: ph.posthistorytypeid = 34
+
+
+query: 299
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 300
+RELOPTINFO (b): rows=77656 width=0
+	baserestrictinfo: b.date <= 2014-08-20 12:16:56
+
+
+query: 301
+RELOPTINFO (c): rows=174005 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-22 01:19:43
+
+
+query: 302
+RELOPTINFO (p): rows=41796 width=0
+	baserestrictinfo: p.score >= -1, p.viewcount >= 0, p.commentcount <= 9
+
+
+query: 303
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 304
+RELOPTINFO (ph): rows=283760 width=0
+	baserestrictinfo: ph.creationdate >= 2010-09-20 17:45:15, ph.creationdate <= 2014-08-07 01:00:45
+
+
+query: 305
+RELOPTINFO (v): rows=2166 width=0
+	baserestrictinfo: v.votetypeid = 15
+
+
+query: 306
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 307
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 308
+RELOPTINFO (p): rows=41177 width=0
+	baserestrictinfo: p.score <= 192, p.viewcount >= 0, p.viewcount <= 2772, p.answercount <= 5, p.posttypeid = 1
+
+
+query: 309
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 310
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 311
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 312
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.downvotes >= 0
+
+
+query: 313
+RELOPTINFO (c): rows=134204 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-09 19:58:29, c.score = 0
+
+
+query: 314
+RELOPTINFO (p): rows=40093 width=0
+	baserestrictinfo: p.score >= -4, p.viewcount >= 0, p.viewcount <= 5977, p.answercount <= 4, p.commentcount >= 0, p.commentcount <= 11, p.creationdate >= 2011-01-25 08:31:41
+
+
+query: 315
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 316
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 317
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 318
+RELOPTINFO (u): rows=39111 width=0
+	baserestrictinfo: u.reputation <= 312, u.downvotes <= 0
+
+
+query: 319
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 320
+RELOPTINFO (p): rows=41710 width=0
+	baserestrictinfo: p.viewcount <= 4159, p.commentcount >= 0, p.commentcount <= 12, p.posttypeid = 1
+
+
+query: 321
+RELOPTINFO (ph): rows=91976 width=0
+	baserestrictinfo: ph.posthistorytypeid = 2
+
+
+query: 322
+RELOPTINFO (v): rows=262116 width=0
+	baserestrictinfo: v.votetypeid = 2
+
+
+query: 323
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 324
+RELOPTINFO (u): rows=37698 width=0
+	baserestrictinfo: u.views <= 86, u.downvotes >= 0, u.downvotes <= 1, u.upvotes <= 6
+
+
+query: 325
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 326
+RELOPTINFO (p): rows=12978 width=0
+	baserestrictinfo: p.viewcount >= 0, p.answercount >= 0, p.answercount <= 7, p.favoritecount >= 0, p.favoritecount <= 17
+
+
+query: 327
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 328
+RELOPTINFO (v): rows=33691 width=0
+	baserestrictinfo: v.votetypeid = 5
+
+
+query: 329
+RELOPTINFO (b): rows=78870 width=0
+	baserestrictinfo: b.date >= 2010-08-01 02:54:53
+
+
+query: 330
+RELOPTINFO (u): rows=39438 width=0
+	baserestrictinfo: u.reputation >= 1, u.views >= 0, u.creationdate >= 2010-08-19 06:26:34, u.creationdate <= 2014-09-11 05:22:26
+
+
+query: 331
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 332
+RELOPTINFO (p): rows=13104 width=0
+	baserestrictinfo: p.commentcount >= 0, p.commentcount <= 12, p.favoritecount >= 0, p.posttypeid = 1
+
+
+query: 333
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 334
+RELOPTINFO (v): rows=1301 width=0
+	baserestrictinfo: v.bountyamount <= 50
+
+
+query: 335
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 336
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 337
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 338
+RELOPTINFO (p): rows=11912 width=0
+	baserestrictinfo: p.score <= 21, p.answercount <= 3, p.favoritecount >= 0
+
+
+query: 339
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 340
+RELOPTINFO (v): rows=327982 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-19 00:00:00
+
+
+query: 341
+RELOPTINFO (b): rows=79663 width=0
+	baserestrictinfo: b.date <= 2014-09-11 18:35:08
+
+
+query: 342
+RELOPTINFO (u): rows=39061 width=0
+	baserestrictinfo: u.reputation <= 240
+
+
+query: 343
+RELOPTINFO (c): rows=173677 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-27 17:46:38
+
+
+query: 344
+RELOPTINFO (p): rows=41703 width=0
+	baserestrictinfo: p.answercount >= 0, p.answercount <= 4, p.commentcount >= 0, p.commentcount <= 11, p.creationdate >= 2010-07-26 09:46:48, p.creationdate <= 2014-09-13 10:09:50
+
+
+query: 345
+RELOPTINFO (u): rows=39730 width=0
+	baserestrictinfo: u.reputation >= 1, u.creationdate >= 2010-08-03 19:42:40, u.creationdate <= 2014-09-12 02:20:03
+
+
+query: 346
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 347
+RELOPTINFO (p): rows=12671 width=0
+	baserestrictinfo: p.answercount <= 5, p.commentcount >= 0, p.commentcount <= 11, p.favoritecount <= 27
+
+
+query: 348
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.reputation >= 1
+
+
+query: 349
+RELOPTINFO (c): rows=172293 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-09 07:24:50, c.creationdate <= 2014-09-10 03:46:02
+
+
+query: 350
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 351
+RELOPTINFO (u): rows=39444 width=0
+	baserestrictinfo: u.reputation >= 1, u.views <= 80, u.upvotes >= 0, u.creationdate >= 2010-08-02 20:31:12
+
+
+query: 352
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 353
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 354
+RELOPTINFO (u): rows=39903 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 7931, u.views <= 109, u.downvotes >= 0, u.creationdate <= 2014-09-12 13:12:56
+
+
+query: 355
+RELOPTINFO (c): rows=173428 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-27 15:46:34, c.creationdate <= 2014-09-12 08:15:14
+
+
+query: 356
+RELOPTINFO (v): rows=327152 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-19 00:00:00, v.creationdate <= 2014-09-10 00:00:00
+
+
+query: 357
+RELOPTINFO (u): rows=39728 width=0
+	baserestrictinfo: u.creationdate <= 2014-09-03 01:06:41
+
+
+query: 358
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 359
+RELOPTINFO (v): rows=327569 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-11 00:00:00
+
+
+query: 360
+RELOPTINFO (u): rows=36356 width=0
+	baserestrictinfo: u.creationdate >= 2010-07-19 20:11:48, u.creationdate <= 2014-07-09 20:37:10
+
+
+query: 361
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 362
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 363
+RELOPTINFO (u): rows=39808 width=0
+	baserestrictinfo: u.views >= 0, u.views <= 74
+
+
+query: 364
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 365
+RELOPTINFO (c): rows=172545 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-12 20:27:30, c.creationdate <= 2014-09-12 12:49:19
+
+
+query: 366
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 367
+RELOPTINFO (u): rows=40000 width=0
+	baserestrictinfo: u.views >= 0, u.downvotes >= 0, u.downvotes <= 2
+
+
+query: 368
+RELOPTINFO (c): rows=134659 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-24 06:46:49, c.score = 0
+
+
+query: 369
+RELOPTINFO (b): rows=79610 width=0
+	baserestrictinfo: b.date >= 2010-07-19 20:34:06, b.date <= 2014-09-12 15:11:36
+
+
+query: 370
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.upvotes >= 0
+
+
+query: 371
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 372
+RELOPTINFO (p): rows=91582 width=0
+	baserestrictinfo: p.score >= -1, p.commentcount >= 0, p.commentcount <= 23
+
+
+query: 373
+RELOPTINFO (u): rows=39563 width=0
+	baserestrictinfo: u.upvotes >= 0, u.upvotes <= 244, u.downvotes = 0
+
+
+query: 374
+RELOPTINFO (ph): rows=275240 width=0
+	baserestrictinfo: ph.creationdate >= 2011-05-20 18:43:03
+
+
+query: 375
+RELOPTINFO (p): rows=12190 width=0
+	baserestrictinfo: p.favoritecount <= 5
+
+
+query: 376
+RELOPTINFO (u): rows=37426 width=0
+	baserestrictinfo: u.views >= 0, u.upvotes >= 0, u.creationdate >= 2010-11-27 21:46:49, u.creationdate <= 2014-08-18 13:00:22
+
+
+query: 377
+RELOPTINFO (ph): rows=298908 width=0
+	baserestrictinfo: ph.creationdate >= 2010-08-21 05:30:40
+
+
+query: 378
+RELOPTINFO (p): rows=90956 width=0
+	baserestrictinfo: p.score >= 0
+
+
+query: 379
+RELOPTINFO (u): rows=40051 width=0
+	baserestrictinfo: u.reputation >= 1, u.upvotes <= 198, u.creationdate >= 2010-07-19 20:49:05
+
+
+query: 380
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 381
+RELOPTINFO (p): rows=88880 width=0
+	baserestrictinfo: p.creationdate >= 2010-08-17 19:08:05, p.creationdate <= 2014-08-31 06:58:12
+
+
+query: 382
+RELOPTINFO (u): rows=38341 width=0
+	baserestrictinfo: u.upvotes >= 0, u.upvotes <= 9
+
+
+query: 383
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 384
+RELOPTINFO (p): rows=46927 width=0
+	baserestrictinfo: p.creationdate <= 2014-08-26 22:40:26, p.posttypeid = 2
+
+
+query: 385
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.views >= 0
+
+
+query: 386
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 387
+RELOPTINFO (p): rows=91976 width=0
+	baserestrictinfo: p.commentcount >= 0
+
+
+query: 388
+RELOPTINFO (u): rows=38765 width=0
+	baserestrictinfo: u.creationdate >= 2010-12-15 06:00:24
+
+
+query: 389
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 390
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 391
+RELOPTINFO (v): rows=327888 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-12 00:00:00
+
+
+query: 392
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 393
+RELOPTINFO (c): rows=133397 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-26 06:55:11, c.score = 0
+
+
+query: 394
+RELOPTINFO (ph): rows=300288 width=0
+	baserestrictinfo: ph.creationdate <= 2014-09-05 06:39:25
+
+
+query: 395
+RELOPTINFO (v): rows=262116 width=0
+	baserestrictinfo: v.votetypeid = 2
+
+
+query: 396
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 397
+RELOPTINFO (c): rows=173735 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-27 12:03:40
+
+
+query: 398
+RELOPTINFO (p): rows=12147 width=0
+	baserestrictinfo: p.score >= 0, p.score <= 28, p.viewcount >= 0, p.viewcount <= 6517, p.answercount >= 0, p.answercount <= 5, p.favoritecount >= 0, p.favoritecount <= 8, p.creationdate >= 2010-07-27 11:29:20, p.creationdate <= 2014-09-13 02:50:15
+
+
+query: 399
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 400
+RELOPTINFO (u): rows=39981 width=0
+	baserestrictinfo: u.views >= 0, u.creationdate >= 2010-07-27 09:38:05
+
+
+query: 401
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 402
+RELOPTINFO (p): rows=42871 width=0
+	baserestrictinfo: p.score <= 52, p.answercount >= 0
+
+
+query: 403
+RELOPTINFO (v): rows=327650 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-20 00:00:00
+
+
+query: 404
+RELOPTINFO (u): rows=38951 width=0
+	baserestrictinfo: u.upvotes >= 0, u.creationdate >= 2010-10-05 05:52:35, u.creationdate <= 2014-09-08 15:55:02
+
+
+query: 405
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 406
+RELOPTINFO (p): rows=42921 width=0
+	baserestrictinfo: p.viewcount >= 0
+
+
+query: 407
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 408
+RELOPTINFO (u): rows=39321 width=0
+	baserestrictinfo: u.reputation <= 306, u.upvotes >= 0
+
+
+query: 409
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 410
+RELOPTINFO (p): rows=41589 width=0
+	baserestrictinfo: p.score >= 0, p.score <= 16, p.viewcount >= 0, p.creationdate <= 2014-09-09 12:00:50
+
+
+query: 411
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 412
+RELOPTINFO (u): rows=39426 width=0
+	baserestrictinfo: u.reputation >= 1, u.creationdate >= 2010-07-19 19:08:49, u.creationdate <= 2014-08-28 12:15:56
+
+
+query: 413
+RELOPTINFO (c): rows=134258 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-10 02:47:53, c.score = 0
+
+
+query: 414
+RELOPTINFO (p): rows=87175 width=0
+	baserestrictinfo: p.score >= 0, p.score <= 19, p.commentcount <= 10, p.creationdate <= 2014-08-28 13:31:33
+
+
+query: 415
+RELOPTINFO (v): rows=327888 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-12 00:00:00
+
+
+query: 416
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.downvotes >= 0
+
+
+query: 417
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 418
+RELOPTINFO (p): rows=42661 width=0
+	baserestrictinfo: p.answercount >= 0, p.answercount <= 7, p.creationdate <= 2014-09-12 00:03:32
+
+
+query: 419
+RELOPTINFO (b): rows=79593 width=0
+	baserestrictinfo: b.date <= 2014-09-11 07:27:36
+
+
+query: 420
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 421
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 422
+RELOPTINFO (p): rows=42786 width=0
+	baserestrictinfo: p.commentcount >= 0, p.commentcount <= 15, p.posttypeid = 1
+
+
+query: 423
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 424
+RELOPTINFO (u): rows=39882 width=0
+	baserestrictinfo: u.reputation >= 1, u.downvotes >= 0, u.downvotes <= 1
+
+
+query: 425
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 426
+RELOPTINFO (ph): rows=298789 width=0
+	baserestrictinfo: ph.creationdate >= 2010-07-28 09:11:34, ph.creationdate <= 2014-09-06 06:51:53
+
+
+query: 427
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 428
+RELOPTINFO (u): rows=39462 width=0
+	baserestrictinfo: u.downvotes <= 0, u.upvotes >= 0, u.upvotes <= 72
+
+
+query: 429
+RELOPTINFO (c): rows=134490 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-19 19:56:21, c.creationdate <= 2014-09-11 13:36:12, c.score = 0
+
+
+query: 430
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 431
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 432
+RELOPTINFO (u): rows=40186 width=0
+	baserestrictinfo: u.views <= 433, u.downvotes >= 0, u.creationdate <= 2014-09-12 21:37:39
+
+
+query: 433
+RELOPTINFO (c): rows=171115 width=0
+	baserestrictinfo: c.creationdate <= 2014-08-28 07:25:55
+
+
+query: 434
+RELOPTINFO (ph): rows=91976 width=0
+	baserestrictinfo: ph.posthistorytypeid = 2
+
+
+query: 435
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 436
+RELOPTINFO (u): rows=36820 width=0
+	baserestrictinfo: u.reputation >= 1, u.views >= 0, u.downvotes >= 0, u.upvotes >= 0, u.upvotes <= 15, u.creationdate >= 2010-09-03 11:45:16, u.creationdate <= 2014-08-18 17:19:53
+
+
+query: 437
+RELOPTINFO (c): rows=24733 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-27 14:12:07, c.score = 1
+
+
+query: 438
+RELOPTINFO (v): rows=33690 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-19 00:00:00, v.creationdate <= 2014-09-13 00:00:00, v.votetypeid = 5
+
+
+query: 439
+RELOPTINFO (b): rows=77535 width=0
+	baserestrictinfo: b.date <= 2014-08-19 10:32:13
+
+
+query: 440
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.reputation >= 1
+
+
+query: 441
+RELOPTINFO (c): rows=24976 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-20 23:17:28, c.score = 1
+
+
+query: 442
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 443
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 444
+RELOPTINFO (u): rows=40173 width=0
+	baserestrictinfo: u.creationdate >= 2010-07-20 01:27:29
+
+
+query: 445
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 446
+RELOPTINFO (pl): rows=9794 width=0
+	baserestrictinfo: pl.creationdate >= 2011-11-21 22:39:41, pl.creationdate <= 2014-09-01 16:29:56
+
+
+query: 447
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 448
+RELOPTINFO (v): rows=326887 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-22 00:00:00, v.creationdate <= 2014-09-14 00:00:00
+
+
+query: 449
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 450
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 451
+RELOPTINFO (pl): rows=10423 width=0
+	baserestrictinfo: pl.creationdate >= 2011-03-22 06:18:34, pl.creationdate <= 2014-08-22 20:04:25
+
+
+query: 452
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 453
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 454
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 455
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 456
+RELOPTINFO (pl): rows=10032 width=0
+	baserestrictinfo: pl.creationdate >= 2010-10-19 15:02:42, pl.linktypeid = 1
+
+
+query: 457
+RELOPTINFO (ph): rows=272988 width=0
+	baserestrictinfo: ph.creationdate <= 2014-06-18 17:14:07
+
+
+query: 458
+RELOPTINFO (v): rows=327650 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-20 00:00:00
+
+
+query: 459
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 460
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 461
+RELOPTINFO (pl): rows=9549 width=0
+	baserestrictinfo: pl.creationdate >= 2011-06-14 13:31:35, pl.linktypeid = 1
+
+
+query: 462
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 463
+RELOPTINFO (v): rows=327152 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-19 00:00:00, v.creationdate <= 2014-09-10 00:00:00
+
+
+query: 464
+RELOPTINFO (p): rows=91976 width=0
+
+
+query: 465
+RELOPTINFO (c): rows=173540 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-10 00:33:30
+
+
+query: 466
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 467
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 468
+RELOPTINFO (u): rows=39348 width=0
+	baserestrictinfo: u.downvotes <= 0, u.upvotes <= 47
+
+
+query: 469
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 470
+RELOPTINFO (ph): rows=87423 width=0
+	baserestrictinfo: ph.creationdate <= 2014-08-01 13:56:22, ph.posthistorytypeid = 2
+
+
+query: 471
+RELOPTINFO (b): rows=78855 width=0
+	baserestrictinfo: b.date <= 2014-09-02 23:33:16
+
+
+query: 472
+RELOPTINFO (u): rows=36998 width=0
+	baserestrictinfo: u.views >= 0, u.downvotes >= 0, u.upvotes >= 0, u.upvotes <= 62, u.creationdate >= 2010-07-27 17:10:30, u.creationdate <= 2014-07-31 18:48:36
+
+
+query: 473
+RELOPTINFO (c): rows=171069 width=0
+	baserestrictinfo: c.creationdate <= 2014-08-28 00:18:24
+
+
+query: 474
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 475
+RELOPTINFO (b): rows=77918 width=0
+	baserestrictinfo: b.date >= 2010-09-15 02:50:48
+
+
+query: 476
+RELOPTINFO (u): rows=39993 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 1443, u.downvotes >= 0, u.downvotes <= 3
+
+
+query: 477
+RELOPTINFO (c): rows=8362 width=0
+	baserestrictinfo: c.score = 2
+
+
+query: 478
+RELOPTINFO (ph): rows=295642 width=0
+	baserestrictinfo: ph.creationdate >= 2010-08-19 12:45:55, ph.creationdate <= 2014-09-03 21:46:37
+
+
+query: 479
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 480
+RELOPTINFO (u): rows=40068 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 1183, u.views >= 0
+
+
+query: 481
+RELOPTINFO (ph): rows=302416 width=0
+	baserestrictinfo: ph.creationdate >= 2010-07-21 00:44:08
+
+
+query: 482
+RELOPTINFO (p): rows=42921 width=0
+	baserestrictinfo: p.viewcount >= 0, p.commentcount >= 0
+
+
+query: 483
+RELOPTINFO (v): rows=262116 width=0
+	baserestrictinfo: v.votetypeid = 2
+
+
+query: 484
+RELOPTINFO (u): rows=39247 width=0
+	baserestrictinfo: u.views >= 0, u.views <= 34, u.upvotes >= 0
+
+
+query: 485
+RELOPTINFO (ph): rows=286515 width=0
+	baserestrictinfo: ph.creationdate <= 2014-07-28 13:25:35
+
+
+query: 486
+RELOPTINFO (p): rows=42238 width=0
+	baserestrictinfo: p.answercount >= 0, p.answercount <= 4, p.posttypeid = 1
+
+
+query: 487
+RELOPTINFO (v): rows=324656 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-20 00:00:00, v.creationdate <= 2014-09-03 00:00:00
+
+
+query: 488
+RELOPTINFO (u): rows=37542 width=0
+	baserestrictinfo: u.creationdate <= 2014-08-08 07:03:29, u.downvotes = 0
+
+
+query: 489
+RELOPTINFO (ph): rows=69427 width=0
+	baserestrictinfo: ph.posthistorytypeid = 5
+
+
+query: 490
+RELOPTINFO (p): rows=40611 width=0
+	baserestrictinfo: p.viewcount >= 0, p.viewcount <= 2024
+
+
+query: 491
+RELOPTINFO (u): rows=39923 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 750
+
+
+query: 492
+RELOPTINFO (b): rows=79511 width=0
+	baserestrictinfo: b.date >= 2010-07-20 10:34:10
+
+
+query: 493
+RELOPTINFO (ph): rows=303005 width=0
+	baserestrictinfo: ph.creationdate >= 2010-07-19 19:52:31
+
+
+query: 494
+RELOPTINFO (p): rows=90956 width=0
+	baserestrictinfo: p.score >= 0
+
+
+query: 495
+RELOPTINFO (u): rows=39783 width=0
+	baserestrictinfo: u.creationdate >= 2010-07-27 02:56:06, u.creationdate <= 2014-09-10 10:44:00
+
+
+query: 496
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 497
+RELOPTINFO (ph): rows=84319 width=0
+	baserestrictinfo: ph.creationdate >= 2011-01-08 03:03:48, ph.creationdate <= 2014-08-25 14:04:43, ph.posthistorytypeid = 2
+
+
+query: 498
+RELOPTINFO (p): rows=12416 width=0
+	baserestrictinfo: p.answercount <= 4, p.commentcount >= 0, p.commentcount <= 12, p.favoritecount >= 0, p.favoritecount <= 89, p.creationdate <= 2014-09-02 10:21:04
+
+
+query: 499
+RELOPTINFO (u): rows=38877 width=0
+	baserestrictinfo: u.reputation <= 705, u.creationdate >= 2010-07-28 23:56:00, u.creationdate <= 2014-09-02 10:04:41
+
+
+query: 500
+RELOPTINFO (b): rows=79007 width=0
+	baserestrictinfo: b.date >= 2010-07-20 20:47:27, b.date <= 2014-09-09 13:24:28
+
+
+query: 501
+RELOPTINFO (ph): rows=300197 width=0
+	baserestrictinfo: ph.creationdate >= 2010-07-27 18:08:19, ph.creationdate <= 2014-09-10 08:22:43
+
+
+query: 502
+RELOPTINFO (p): rows=47755 width=0
+	baserestrictinfo: p.posttypeid = 2
+
+
+query: 503
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 504
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 505
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 506
+RELOPTINFO (p): rows=13179 width=0
+	baserestrictinfo: p.answercount >= 0, p.favoritecount >= 0, p.creationdate <= 2014-09-03 03:32:35
+
+
+query: 507
+RELOPTINFO (u): rows=40287 width=0
+	baserestrictinfo: u.creationdate <= 2014-09-12 22:21:49
+
+
+query: 508
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 509
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 510
+RELOPTINFO (v): rows=327234 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-10 00:00:00
+
+
+query: 511
+RELOPTINFO (u): rows=39835 width=0
+	baserestrictinfo: u.downvotes >= 0, u.downvotes <= 3, u.upvotes >= 0, u.upvotes <= 71
+
+
+query: 512
+RELOPTINFO (b): rows=79654 width=0
+	baserestrictinfo: b.date >= 2010-07-19 21:54:06
+
+
+query: 513
+RELOPTINFO (ph): rows=42921 width=0
+	baserestrictinfo: ph.posthistorytypeid = 1
+
+
+query: 514
+RELOPTINFO (v): rows=327888 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-12 00:00:00
+
+
+query: 515
+RELOPTINFO (u): rows=35771 width=0
+	baserestrictinfo: u.reputation <= 126, u.views <= 11, u.creationdate >= 2010-08-02 16:17:58, u.creationdate <= 2014-09-12 00:16:30
+
+
+query: 516
+RELOPTINFO (b): rows=78917 width=0
+	baserestrictinfo: b.date <= 2014-09-03 16:13:12
+
+
+query: 517
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 518
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 519
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.views >= 0
+
+
+query: 520
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 521
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 522
+RELOPTINFO (p): rows=13091 width=0
+	baserestrictinfo: p.favoritecount >= 0, p.creationdate >= 2010-07-23 02:00:12, p.creationdate <= 2014-09-08 13:52:41
+
+
+query: 523
+RELOPTINFO (pl): rows=9187 width=0
+	baserestrictinfo: pl.creationdate >= 2011-10-06 21:41:26, pl.linktypeid = 1
+
+
+query: 524
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 525
+RELOPTINFO (v): rows=262116 width=0
+	baserestrictinfo: v.votetypeid = 2
+
+
+query: 526
+RELOPTINFO (c): rows=173418 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-01 12:12:41
+
+
+query: 527
+RELOPTINFO (p): rows=11092 width=0
+	baserestrictinfo: p.score <= 44, p.favoritecount >= 0, p.favoritecount <= 3, p.creationdate >= 2010-08-11 13:53:56, p.creationdate <= 2014-09-03 11:52:36
+
+
+query: 528
+RELOPTINFO (pl): rows=9803 width=0
+	baserestrictinfo: pl.creationdate <= 2014-08-11 17:26:31, pl.linktypeid = 1
+
+
+query: 529
+RELOPTINFO (ph): rows=296815 width=0
+	baserestrictinfo: ph.creationdate >= 2010-09-20 19:11:45
+
+
+query: 530
+RELOPTINFO (v): rows=327569 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-11 00:00:00
+
+
+query: 531
+RELOPTINFO (c): rows=173566 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-10 02:42:35
+
+
+query: 532
+RELOPTINFO (p): rows=42009 width=0
+	baserestrictinfo: p.score >= -1, p.viewcount <= 5896, p.answercount >= 0, p.creationdate >= 2010-07-29 15:57:21
+
+
+query: 533
+RELOPTINFO (pl): rows=11102 width=0
+
+
+query: 534
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 535
+RELOPTINFO (v): rows=262116 width=0
+	baserestrictinfo: v.votetypeid = 2
+
+
+query: 536
+RELOPTINFO (c): rows=173857 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-11 12:25:05, c.creationdate <= 2014-09-11 13:43:09
+
+
+query: 537
+RELOPTINFO (p): rows=91618 width=0
+	baserestrictinfo: p.commentcount >= 0, p.commentcount <= 14
+
+
+query: 538
+RELOPTINFO (pl): rows=10186 width=0
+	baserestrictinfo: pl.linktypeid = 1
+
+
+query: 539
+RELOPTINFO (ph): rows=300455 width=0
+	baserestrictinfo: ph.creationdate >= 2010-08-06 03:14:53
+
+
+query: 540
+RELOPTINFO (u): rows=39369 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 491, u.downvotes >= 0, u.downvotes <= 0
+
+
+query: 541
+RELOPTINFO (c): rows=8362 width=0
+	baserestrictinfo: c.score = 2
+
+
+query: 542
+RELOPTINFO (p): rows=41710 width=0
+	baserestrictinfo: p.answercount >= 0, p.answercount <= 9, p.creationdate >= 2010-07-20 18:17:25, p.creationdate <= 2014-08-26 12:57:22
+
+
+query: 543
+RELOPTINFO (ph): rows=299045 width=0
+	baserestrictinfo: ph.creationdate <= 2014-09-02 07:58:47
+
+
+query: 544
+RELOPTINFO (v): rows=1744 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.creationdate >= 2010-05-19 00:00:00
+
+
+query: 545
+RELOPTINFO (u): rows=37636 width=0
+	baserestrictinfo: u.upvotes <= 230, u.creationdate >= 2010-09-22 01:07:10, u.creationdate <= 2014-08-15 05:52:23
+
+
+query: 546
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 547
+RELOPTINFO (p): rows=42533 width=0
+	baserestrictinfo: p.viewcount >= 0, p.answercount >= 0, p.answercount <= 5
+
+
+query: 548
+RELOPTINFO (ph): rows=87524 width=0
+	baserestrictinfo: ph.creationdate >= 2010-11-05 01:25:39, ph.creationdate <= 2014-09-09 07:14:12, ph.posthistorytypeid = 2
+
+
+query: 549
+RELOPTINFO (v): rows=1651 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.bountyamount <= 100, v.creationdate >= 2010-07-26 00:00:00
+
+
+query: 550
+RELOPTINFO (u): rows=37714 width=0
+	baserestrictinfo: u.views >= 0, u.views <= 13
+
+
+query: 551
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 552
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 553
+RELOPTINFO (b): rows=77704 width=0
+	baserestrictinfo: b.date >= 2010-09-26 12:17:14
+
+
+query: 554
+RELOPTINFO (v): rows=1740 width=0
+	baserestrictinfo: v.bountyamount >= 0, v.creationdate >= 2010-07-20 00:00:00, v.creationdate <= 2014-09-11 00:00:00
+
+
+query: 555
+RELOPTINFO (u): rows=37062 width=0
+	baserestrictinfo: u.downvotes >= 0, u.downvotes <= 0, u.upvotes >= 0, u.upvotes <= 31, u.creationdate <= 2014-08-06 20:38:52
+
+
+query: 556
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 557
+RELOPTINFO (p): rows=12269 width=0
+	baserestrictinfo: p.score >= -2, p.commentcount >= 0, p.commentcount <= 12, p.favoritecount >= 0, p.favoritecount <= 6
+
+
+query: 558
+RELOPTINFO (ph): rows=293922 width=0
+	baserestrictinfo: ph.creationdate <= 2014-08-18 08:54:12
+
+
+query: 559
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 560
+RELOPTINFO (u): rows=20197 width=0
+	baserestrictinfo: u.downvotes >= 0, u.downvotes <= 60, u.views = 0
+
+
+query: 561
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 562
+RELOPTINFO (p): rows=879 width=0
+	baserestrictinfo: p.viewcount >= 0, p.viewcount <= 4157, p.creationdate <= 2014-09-08 09:58:16, p.favoritecount = 0, p.posttypeid = 1
+
+
+query: 563
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 564
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 565
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 566
+RELOPTINFO (c): rows=169311 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-19 09:33:49, c.creationdate <= 2014-08-28 06:54:21
+
+
+query: 567
+RELOPTINFO (p): rows=13007 width=0
+	baserestrictinfo: p.viewcount >= 0, p.viewcount <= 25597, p.commentcount >= 0, p.commentcount <= 11, p.favoritecount >= 0, p.posttypeid = 1
+
+
+query: 568
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 569
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 570
+RELOPTINFO (u): rows=39532 width=0
+	baserestrictinfo: u.downvotes <= 0, u.upvotes >= 0, u.upvotes <= 123
+
+
+query: 571
+RELOPTINFO (c): rows=174263 width=0
+	baserestrictinfo: c.creationdate <= 2014-09-13 20:12:15
+
+
+query: 572
+RELOPTINFO (pl): rows=8776 width=0
+	baserestrictinfo: pl.creationdate >= 2011-09-03 21:00:10, pl.creationdate <= 2014-07-30 21:29:52, pl.linktypeid = 1
+
+
+query: 573
+RELOPTINFO (p): rows=11995 width=0
+	baserestrictinfo: p.score >= 0, p.score <= 23, p.answercount >= 0, p.answercount <= 4, p.commentcount >= 0, p.commentcount <= 10, p.favoritecount <= 9, p.creationdate >= 2010-07-22 12:17:20, p.creationdate <= 2014-09-12 00:27:12
+
+
+query: 574
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 575
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 576
+RELOPTINFO (t): rows=1032 width=0
+
+
+query: 577
+RELOPTINFO (p): rows=91489 width=0
+	baserestrictinfo: p.commentcount >= 0, p.commentcount <= 13
+
+
+query: 578
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.reputation >= 1
+
+
+query: 579
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 580
+RELOPTINFO (b): rows=79206 width=0
+	baserestrictinfo: b.date <= 2014-09-06 17:33:22
+
+
+query: 581
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 582
+RELOPTINFO (p): rows=89806 width=0
+	baserestrictinfo: p.score >= -1, p.score <= 14
+
+
+query: 583
+RELOPTINFO (pl): rows=9994 width=0
+	baserestrictinfo: pl.creationdate <= 2014-06-25 13:05:06
+
+
+query: 584
+RELOPTINFO (v): rows=328064 width=0
+	baserestrictinfo: v.creationdate >= 2009-02-02 00:00:00
+
+
+query: 585
+RELOPTINFO (b): rows=77692 width=0
+	baserestrictinfo: b.date >= 2010-08-04 08:50:31, b.date <= 2014-09-02 02:51:22
+
+
+query: 586
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.downvotes >= 0
+
+
+query: 587
+RELOPTINFO (c): rows=134887 width=0
+	baserestrictinfo: c.score = 0
+
+
+query: 588
+RELOPTINFO (p): rows=12741 width=0
+	baserestrictinfo: p.viewcount >= 0, p.answercount <= 5, p.commentcount <= 12, p.favoritecount >= 0
+
+
+query: 589
+RELOPTINFO (pl): rows=9721 width=0
+	baserestrictinfo: pl.creationdate >= 2011-02-16 20:04:50, pl.creationdate <= 2014-09-01 16:48:04, pl.linktypeid = 1
+
+
+query: 590
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 591
+RELOPTINFO (v): rows=324079 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-19 00:00:00, v.creationdate <= 2014-08-31 00:00:00
+
+
+query: 592
+RELOPTINFO (b): rows=78544 width=0
+	baserestrictinfo: b.date >= 2010-08-06 10:36:45, b.date <= 2014-09-12 07:19:35
+
+
+query: 593
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 594
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 595
+RELOPTINFO (p): rows=90613 width=0
+	baserestrictinfo: p.score <= 40, p.commentcount >= 0, p.creationdate >= 2010-07-28 17:40:56, p.creationdate <= 2014-09-11 04:22:44
+
+
+query: 596
+RELOPTINFO (pl): rows=10186 width=0
+	baserestrictinfo: pl.linktypeid = 1
+
+
+query: 597
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 598
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 599
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 600
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 601
+RELOPTINFO (c): rows=134602 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-26 17:09:48, c.score = 0
+
+
+query: 602
+RELOPTINFO (p): rows=42747 width=0
+	baserestrictinfo: p.answercount >= 0, p.commentcount >= 0, p.commentcount <= 14, p.posttypeid = 1
+
+
+query: 603
+RELOPTINFO (pl): rows=10805 width=0
+	baserestrictinfo: pl.creationdate >= 2010-10-27 10:02:57, pl.creationdate <= 2014-09-04 17:23:50
+
+
+query: 604
+RELOPTINFO (ph): rows=302524 width=0
+	baserestrictinfo: ph.creationdate <= 2014-09-11 20:09:41
+
+
+query: 605
+RELOPTINFO (v): rows=327186 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-21 00:00:00, v.creationdate <= 2014-09-14 00:00:00
+
+
+query: 606
+RELOPTINFO (b): rows=79851 width=0
+
+
+query: 607
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 608
+RELOPTINFO (c): rows=172996 width=0
+	baserestrictinfo: c.creationdate >= 2010-08-01 19:11:47, c.creationdate <= 2014-09-11 13:42:51
+
+
+query: 609
+RELOPTINFO (p): rows=12613 width=0
+	baserestrictinfo: p.answercount <= 4, p.favoritecount >= 0
+
+
+query: 610
+RELOPTINFO (pl): rows=10186 width=0
+	baserestrictinfo: pl.linktypeid = 1
+
+
+query: 611
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 612
+RELOPTINFO (v): rows=261476 width=0
+	baserestrictinfo: v.creationdate <= 2014-09-10 00:00:00, v.votetypeid = 2
+
+
+query: 613
+RELOPTINFO (b): rows=75910 width=0
+	baserestrictinfo: b.date <= 2014-08-02 12:24:29
+
+
+query: 614
+RELOPTINFO (u): rows=40325 width=0
+
+
+query: 615
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 616
+RELOPTINFO (p): rows=42921 width=0
+	baserestrictinfo: p.answercount >= 0, p.commentcount >= 0
+
+
+query: 617
+RELOPTINFO (ph): rows=303187 width=0
+
+
+query: 618
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 619
+RELOPTINFO (b): rows=79683 width=0
+	baserestrictinfo: b.date <= 2014-09-11 21:46:02
+
+
+query: 620
+RELOPTINFO (u): rows=39856 width=0
+	baserestrictinfo: u.reputation >= 1, u.reputation <= 642, u.downvotes >= 0
+
+
+query: 621
+RELOPTINFO (c): rows=174305 width=0
+
+
+query: 622
+RELOPTINFO (p): rows=42703 width=0
+	baserestrictinfo: p.answercount >= 0, p.creationdate >= 2010-07-21 15:23:53, p.creationdate <= 2014-09-11 23:26:14, p.posttypeid = 1
+
+
+query: 623
+RELOPTINFO (pl): rows=10607 width=0
+	baserestrictinfo: pl.creationdate >= 2010-11-16 01:27:37, pl.creationdate <= 2014-08-21 15:25:23
+
+
+query: 624
+RELOPTINFO (ph): rows=69427 width=0
+	baserestrictinfo: ph.posthistorytypeid = 5
+
+
+query: 625
+RELOPTINFO (v): rows=327186 width=0
+	baserestrictinfo: v.creationdate >= 2010-07-21 00:00:00
+
+
+query: 626
+RELOPTINFO (u): rows=40221 width=0
+	baserestrictinfo: u.upvotes >= 0, u.creationdate <= 2014-09-11 20:31:48
+
+
+query: 627
+RELOPTINFO (c): rows=173805 width=0
+	baserestrictinfo: c.creationdate >= 2010-07-26 19:37:03
+
+
+query: 628
+RELOPTINFO (p): rows=91000 width=0
+	baserestrictinfo: p.score >= -2, p.commentcount <= 18, p.creationdate >= 2010-07-21 13:50:08, p.creationdate <= 2014-09-11 00:53:10
+
+
+query: 629
+RELOPTINFO (pl): rows=10593 width=0
+	baserestrictinfo: pl.creationdate <= 2014-08-05 18:27:51
+
+
+query: 630
+RELOPTINFO (ph): rows=291664 width=0
+	baserestrictinfo: ph.creationdate >= 2010-11-27 03:38:45
+
+
+query: 631
+RELOPTINFO (v): rows=328064 width=0
+
+
+query: 632
+RELOPTINFO (u): rows=40325 width=0
+	baserestrictinfo: u.downvotes >= 0, u.upvotes >= 0
+
+
