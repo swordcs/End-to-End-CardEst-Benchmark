@@ -1,6 +1,6 @@
 stats_single_table_file = open(
-    '../../workloads/job_light/sub_plan_queries/job_light_single_table_sub_query.sql')
-stats_single_est_file = open('job_light_single_table_est.txt', 'w')
+    '../../workloads/job_light/sub_plan_queries/job_light_sub_query_with_star_join.sql')
+stats_single_est_file = open('job_light_sub_queries_default.txt', 'w')
 queries = stats_single_table_file.readlines()
 
 
